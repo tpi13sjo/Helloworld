@@ -31,5 +31,5 @@
             android:name="android.support.PARENT_ACTIVITY"
             android:value=".MainActivity" />
     </application>
-
+    <uses-permission android:name="android.permission.VIBRATE"/>
 </manifest>
